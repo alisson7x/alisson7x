@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alisson7x.alisson7x&"  />
+  <img src="https://raw.githubusercontent.com/alisson7x/alisson7x/refs/heads/main/snake.svg&"  />
 </div>
 
 ###
