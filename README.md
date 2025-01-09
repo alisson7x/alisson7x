@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alisson7x/alisson7x/output/snake.svg&" />
+<img src="https://raw.githubusercontent.com/alisson7x/alisson7x/output/snake.svg" />
 
 ###
